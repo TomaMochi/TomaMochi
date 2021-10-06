@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @TomaMochi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 สวัสดีเราชื่อ TomaMochi
+   สิ่วที่เราชอบ...เล่นเกม🎮ฟังเพลง🎶
 
-<!---
-TomaMochi/TomaMochi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ชอบกด Like 👍ชอบมากกดSubscribe🔔
+      เป็นกำลังใจให้เราด้วยนะ
+    อย่าลืมกดเเชร์ให้เพื่อนดูด้วยน้า~
+ 
+แล้วก็ขอโทษเรื่องที่มีเสียงรบกวนด้วยล่ะ
+  เราจะพยายามไลฟ์สดทุกๆวันนะ💕
+
+
+💸'(true money wallet)'💸
+สามารถ:โอนเงินเพื่อมาสนับสนุนเราได้นะ
+ที่เบอร์ :0657607069
+
+🙏'(ขอบคุณที่ติดตามและรับชมนะครับ)'🙏
